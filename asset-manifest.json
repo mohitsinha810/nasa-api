@@ -1,0 +1,13 @@
+{
+  "main.css": "/nasa-api/static/css/main.15f286f4.chunk.css",
+  "main.js": "/nasa-api/static/js/main.e6f77f36.chunk.js",
+  "main.js.map": "/nasa-api/static/js/main.e6f77f36.chunk.js.map",
+  "runtime~main.js": "/nasa-api/static/js/runtime~main.c12b7c04.js",
+  "runtime~main.js.map": "/nasa-api/static/js/runtime~main.c12b7c04.js.map",
+  "static/js/2.b19c2b74.chunk.js": "/nasa-api/static/js/2.b19c2b74.chunk.js",
+  "static/js/2.b19c2b74.chunk.js.map": "/nasa-api/static/js/2.b19c2b74.chunk.js.map",
+  "index.html": "/nasa-api/index.html",
+  "precache-manifest.d994f82cb4ff41c24dece36a0a6764a1.js": "/nasa-api/precache-manifest.d994f82cb4ff41c24dece36a0a6764a1.js",
+  "service-worker.js": "/nasa-api/service-worker.js",
+  "static/css/main.15f286f4.chunk.css.map": "/nasa-api/static/css/main.15f286f4.chunk.css.map"
+}
